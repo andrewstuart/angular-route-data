@@ -1,0 +1,23 @@
+{
+  "name": "angular-route-data",
+  "version": "0.0.0",
+  "authors": [
+    "Andrew Stuart <andrew.stuart2@gmail.com>"
+  ],
+  "description": "A layer of abstraction on top of $routeProvider to give access later to metadata for the routes registered.",
+  "main": "build/routes.js",
+  "keywords": [
+    "angular",
+    "route",
+    "navigation",
+    "nav"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
